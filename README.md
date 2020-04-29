@@ -8,5 +8,5 @@ computational biology resources
 See https://github.com/haskankaya/scrnaseq-resources.
 
 ## Git
-- [Ponderomatics Introduction to Git for Bioinformaticians](http://ponderomatics.nfshost.com/git.html) - basic introduction to Git specialised towards bioinformaticians
+- [Ponderomatics Introduction to Git for Bioinformaticians](http://ponderomatics.nfshost.com/git.html) - basic introduction to Git specialised towards bioinformaticians from Jakob Willforss
 - [Git from the bottom up](jwiegley.github.io/git-from-the-bottom-up)  - a complete guide on Git from John Wiegley
