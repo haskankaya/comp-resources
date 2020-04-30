@@ -20,3 +20,6 @@ See https://github.com/haskankaya/scrnaseq-resources.
 
 ## Misc
 - [*Coppola Lab Bioinformatician's Trello Guide, lots of various reading sources to look at](https://trello.com/b/3geUNeW5/bioinformatics-training-resources-coppola-lab) - Trello board compiled by Coppola Lab with a bunch of interesting links to investigate
+
+## Blogs
+- [Valentine Svensson's What Do You Mean "Heterogeneity"?](http://www.nxn.se)
