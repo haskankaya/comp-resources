@@ -17,7 +17,7 @@ See https://github.com/haskankaya/scrnaseq-resources.
 - [*How to read PCA plots](http://www.nxn.se/valent/2017/6/12/how-to-read-pca-plots) - examples of how structures in PCA plots arise from scRNA-seq data with simulations to demonstrate from Valentine Svensson
 
 ## Blogs
-- [*Valentine Svensson's What Do You Mean "Heterogeneity"?](http://www.nxn.se)
+- [*Valentine Svensson's What Do You Mean "Heterogeneity"?](http://www.nxn.se) - a blog focussed on statistics, scRNA-seq analysis and assorted computational fun
 
 ## Misc
 - [*Coppola Lab Bioinformatician's Trello Guide, lots of various reading sources to look at](https://trello.com/b/3geUNeW5/bioinformatics-training-resources-coppola-lab) - Trello board compiled by Coppola Lab with a bunch of interesting links to investigate
