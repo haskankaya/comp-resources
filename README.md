@@ -10,3 +10,8 @@ See https://github.com/haskankaya/scrnaseq-resources.
 ## Git
 - [Ponderomatics Introduction to Git for Bioinformaticians](http://ponderomatics.nfshost.com/git.html) - basic introduction to Git specialised towards bioinformaticians from Jakob Willforss
 - [Git from the bottom up](jwiegley.github.io/git-from-the-bottom-up)  - a complete guide on Git from John Wiegley
+
+
+## Dimensionality Reduction
+### PCA
+- [How to read PCA plots](http://www.nxn.se/valent/2017/6/12/how-to-read-pca-plots) - examples of how structures in PCA plots arise from scRNA-seq data with simulations to demonstrate from Valentine Svensson
