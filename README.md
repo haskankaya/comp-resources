@@ -22,3 +22,4 @@ See https://github.com/haskankaya/scrnaseq-resources.
 ## Misc
 - [*Coppola Lab Bioinformatician's Trello Guide, lots of various reading sources to look at](https://trello.com/b/3geUNeW5/bioinformatics-training-resources-coppola-lab) - Trello board compiled by Coppola Lab with a bunch of interesting links to investigate
 - [*Griffith Lab Bioinformatics tutorials compilation](https://genviz.org/resources/)
+- [*Steaming public RNA-seq data instead of downloading and processing it](http://www.nxn.se/valent/streaming-rna-seq-data-from-ena) - blog post from Valentine Svensson on how to stream publicly available RNA-seq data into tools instead of downloading the fastq to your hard disk
