@@ -1,6 +1,6 @@
 # compbio-resources
 computational biology resources, also a public reading list for me
-* denotes things I want to read or inspect imminently
+'*' denotes things I want to read or inspect imminently
 
 ## basic programming / learning a new language
 - [Codeacademy](www.codeacademy.com) - interactive web-hosted courses to familiarise you with fundamentals of a number of languages. Free versions are sufficient to get to know the ropes.
@@ -23,3 +23,4 @@ See https://github.com/haskankaya/scrnaseq-resources.
 - [*Coppola Lab Bioinformatician's Trello Guide, lots of various reading sources to look at](https://trello.com/b/3geUNeW5/bioinformatics-training-resources-coppola-lab) - Trello board compiled by Coppola Lab with a bunch of interesting links to investigate
 - [*Griffith Lab Bioinformatics tutorials compilation](https://genviz.org/resources/)
 - [*Steaming public RNA-seq data instead of downloading and processing it](http://www.nxn.se/valent/streaming-rna-seq-data-from-ena) - blog post from Valentine Svensson on how to stream publicly available RNA-seq data into tools instead of downloading the fastq to your hard disk
+- [*crazyhottomyy's compilation of bioinformatics reading](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
