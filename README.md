@@ -1,4 +1,4 @@
-# comp-resources
+# compbio-resources
 computational biology resources, also a public reading list for me
 * denotes things I want to read or inspect imminently
 
